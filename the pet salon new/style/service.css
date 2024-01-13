@@ -1,0 +1,34 @@
+body{
+    font-family: cursive; 
+    image-rendering: auto;
+    border: 20px darkolivegreen;
+    background-image: url(./img/ace.jpg);
+    color: white;
+}
+
+
+.hdiv{
+    text-size-adjust: 40px;
+    border: 6px solid black;
+}
+
+.h1{
+    align-content: center;
+    text-align: center;
+}
+
+.nav1{
+    text-align: center;
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-between;
+    flex-shrink: 1;
+    font-size: 20px;
+}
+
+.h2{
+    text-align: center;
+    padding-top: 200px;
+}
+
+
